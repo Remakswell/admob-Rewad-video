@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shymko Maksym</string>
+    <string name="bottom_text">...some other chat messages, on you...</string>
+    <string name="show_reward">Show Reward!</string>
+</resources>
